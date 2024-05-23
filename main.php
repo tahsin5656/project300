@@ -29,7 +29,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Course Management</title>
-    <link rel="stylesheet" href="front.css">
+    <link rel="stylesheet" href="front.css" >
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -55,48 +55,48 @@
         <div class="Courses">
             
             
-        <a href="info.php?batch=batch_51"> <div class="course-box">
+        <div class="course-box">
               
                <img src="graduation (1).png" alt="course logo">
-                <h4>Batch-51</h4>
+               <a href="info.php?batch=batch_51">   <h4>Batch-51</h4></a>
               
-            </div> </a>
-            <a href="info.php?batch=batch_52"> <div class="course-box">
+            </div> 
+             <div class="course-box">
                 <img src="checklist.png" alt="course logo">
-                <h4>Batch-52</h4>
-            </div></a>
-             <a href="info.php?batch=batch_53"><div class="course-box">
+                <a href="info.php?batch=batch_52"><h4>Batch-52</h4></a>
+            </div>
+           <div class="course-box">
                 <img src="books.png" alt="course logo">
-                <h4>Batch-53</h4>
-            </div></a>
-            <a href="info.php?batch=batch_54"> <div class="course-box">
+                <a href="info.php?batch=batch_53">  <h4>Batch-53</h4></a>
+            </div>
+            <div class="course-box">
                 <img src="courses.png" alt="course logo">
-                <h4>Batch-54</h4>
-            </div></a>
-             <a href="info.php?batch=batch_55"><div class="course-box">
+                <a href="info.php?batch=batch_54">  <h4>Batch-54</h4></a>
+            </div>
+           <div class="course-box">
                 <img src="document.png" alt="course logo">
-                <h4>Batch-55</h4>
-            </div></a>
-             <a href="info.php?batch=batch_56"><div class="course-box">
+                <a href="info.php?batch=batch_55">  <h4>Batch-55</h4></a>
+            </div>
+                <div class="course-box">
                 <img src="open-book.png" alt="course logo">
-                <h4>Batch-56</h4>
-            </div></a>
-             <a href="info.php?batch=batch_57"><div class="course-box">
+                <a href="info.php?batch=batch_56">  <h4>Batch-56</h4></a>
+            </div>
+            <div class="course-box">
                 <img src="online-course.png" alt="course logo">
-                <h4>Batch-57</h4>
-            </div></a>
-            <a href="info.php?batch=batch_58"> <div class="course-box">
+                <a href="info.php?batch=batch_57"><h4>Batch-57</h4></a>
+            </div>
+           <div class="course-box">
                 <img src="studying.png" alt="course logo">
-                <h4>Batch-58</h4>
-            </div></a>
-            <a href="info.php?batch=batch_59"> <div class="course-box">
+                <a href="info.php?batch=batch_58">  <h4>Batch-58</h4></a>
+            </div>
+            <div class="course-box">
                 <img src="to-do-list.png" alt="course logo">
-                <h4>Batch-59</h4>
-            </div></a>
-            <a href="info.php?batch=batch_60"> <div class="course-box">
+                <a href="info.php?batch=batch_59">  <h4>Batch-59</h4></a>
+            </div>
+           <div class="course-box">
                 <img src="education.png" alt="course logo">
-                <h4>Batch-60</h4>
-            </div>  </a>  
+                <a href="info.php?batch=batch_60">   <h4>Batch-60</h4> </a>  
+            </div> 
         </div>
 
         <footer>
